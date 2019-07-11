@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <false/>
                         <key>url</key>
-                        <string>http://www.csetpool.com/hkhn/app/WechatIMG63.png</string>
+                        <string>http://www.csetpool.com/hkhn/app/ios_down_big_ic.png</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -27,7 +27,7 @@
                         <key>needs-shine</key>
                         <false/>
                         <key>url</key>
-                        <string>http://www.csetpool.com/hkhn/app/WechatIMG64.png</string>
+                        <string>http://www.csetpool.com/hkhn/app/ios_down_small_ic.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
